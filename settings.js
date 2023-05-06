@@ -8,7 +8,7 @@ const {
 
 //sebagian panel gk support opena ai jadi mungkin apikey lu bakalan di blokir
 //klo misalkan pada saat memakai fitur ai, terus dapat email dari open si, itu berarti website tempat lu install bot gk support ai
-global.OpenAIKey = "YOUR_KEY" //login to https://platform.openai.com/account/api-keys to get apikey
+global.OpenAIKey = "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" //login to https://platform.openai.com/account/api-keys to get apikey
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
@@ -18,7 +18,7 @@ global.APIs = {
 //buy apikey premium 0887435047326
 // Free apikey (silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'V12', // 👉 login https://api.zeeoneofc.my.id to get apikey
+   'https://api.zeeoneofc.my.id': 'NuYSAknYWE4tS8D', // 👉 login https://api.zeeoneofc.my.id to get apikey
 }
 global.sewabotnya = `
 edit sewabot di file settings.js line 24
@@ -43,19 +43,19 @@ global.autowelcome = true //auto welcome msg all group
 global.autodetectpromote = true //auto detect admin all group
 global.autodetectdemote = true //auto detect un admin all group
 global.autogoodbye = true //auto goodbye msg all group
-global.groupOnly = false //bot hanya bisa di gunakan dalam grup jika true
+global.groupOnly = true //bot hanya bisa di gunakan dalam grup jika true
 
 //language
 //Available in indonesia , english & spanyol 
 //You can request others language 
-global.language = indonesia //change indonesia to english if you don't understand the language used by the bot
+global.language = english //change indonesia to english if you don't understand the language used by the bot
 //global.language = english // use this for English language
 //global.language = spanyol // use this for Spanyol language
 
 // Other
 // Other
 global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
+global.ownername = "ᴹᴿ᭄ KesSitha LKོ ×፝֟͜×" //nama kalian
 global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
 global.myweb2 = "https://s.id/zeeoneofc" //bebas
@@ -63,10 +63,10 @@ global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Makassar' //  timezone wib
 global.premium_fitur = ["ai", "openai", "chatgpt"] //tambahin aja sendiri, soalnya gk semua org mau fiturnya premium jadi gw buat kyk gini aja, biar bisa custom fitur mana aja yang bakal di jadiin premium
-global.badword_list = ["asu", "anjir"] //tambahin sendiri kata² nya, gunakan huruf kecil
-global.premium = ['62887435047326'] //premium user
-global.owner = ["62887435047326", "62887435047326"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = owner[0] + "@s.whatsapp.net"
+global.badword_list = ["fuck", "xxx"] //tambahin sendiri kata² nya, gunakan huruf kecil
+global.premium = ['94725877280'] //premium user
+global.owner = ["94765944278", "94725877280"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = owner[94765944278] + "@s.whatsapp.net"
 global.ownernomerr = "+"+ownernomer //tidak perlu di edit
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
