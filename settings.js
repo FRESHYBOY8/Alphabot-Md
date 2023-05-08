@@ -61,6 +61,7 @@ global.ownernomer = "94765944278" // nomor wa kalian
 global.ownernomerr = "+"+ownernomer //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
+audio.di_bagian_menu ="./menu.mp3"
 global.background_welcome = "https://telegra.ph/file/1de4e871b3afd6d9faa39.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = '© ' + botname //sticker wm ubah
