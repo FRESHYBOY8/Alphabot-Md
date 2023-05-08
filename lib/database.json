@@ -44,8 +44,8 @@
       "autobio": true,
       "available": false,
       "composing": false,
-      "recording": false,
-      "autorespond": false
+      "recording": true,
+      "autorespond": true
     }
   }
 }
